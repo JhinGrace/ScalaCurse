@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c416211-fada-4cba-9025-53bc63b6a5a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab1/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/out/production/Functions/Functions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/out/production/Functions/Functions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/out/production/Functions/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Functions/src/Functions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/lab_HiOrder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/out/production/lab_HiOrder/exercise1/HiOrder$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/out/production/lab_HiOrder/exercise1/HiOrder$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/out/production/lab_HiOrder/exercise1/HiOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_HiOrder/src/HiOrder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/lab_classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Animal$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Animal$Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Animal$Meat$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Animal$Plants$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Animal$Vegetables$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Birds$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Birds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Fish$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/META-INF/lab_classes.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Mammals$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/Mammals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/program$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/program$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/out/production/lab_classes/testing.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/src/lab_classes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/main/scala/Test1/Classes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_classes/src/testing.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/lab_patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Bird$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Draw$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Fish$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Hand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Lose$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Mammal$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Meat$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Paper$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Plants$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Rock$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Scissor$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Vegetables$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$Win$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/out/production/lab_patterns/exercise1/PatternMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/lab_patterns/src/Patterns.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/main/scala/Test1/Patterns.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/modules/compositions_lab-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/modules/compositions_lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$0fe3fc4d8b7937df8691$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$0fe3fc4d8b7937df8691.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$0fe3fc4d8b7937df8691.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$6110e567bc3ac11925c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$6110e567bc3ac11925c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$6110e567bc3ac11925c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$83a7ed6b497e4e583fc2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$83a7ed6b497e4e583fc2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$83a7ed6b497e4e583fc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$e274d89a90141c7ae9e1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$e274d89a90141c7ae9e1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/config-classes/$e274d89a90141c7ae9e1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/Compositions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/RecursiveData.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/RecursiveFunc.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/main/scala/Test2/RecursiveFunc.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/Compositions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/Compositions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/Compositions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveData$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveData$Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveData$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveFunctions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/classes/RecursiveFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="349" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lab2" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dP4o3HPjGR4wZYkKgMhIzh9GEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Test4" />
+      <recent name="Test2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mi\Projects\Scala\HelloScalaTest\Lab3\src\test\scala\Test3" />
+      <recent name="D:\mi\Projects\Scala\HelloScalaTest\Lab3\src\main\scala\Test3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.Test4">
+    <configuration name="ScalaTests in 'Lab3'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Lab3" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="classBuf">
+        <list>
+          <option value="Test3.AdtsTest" />
+          <option value="Test3.MapsTest" />
+          <option value="Test3.StringsTest" />
+          <option value="Test3.SequenceTest" />
+          <option value="Test3.SequenceTest" />
+          <option value="Test3.AdtsTest" />
+          <option value="Test3.MapsTest" />
+          <option value="Test3.StringsTest" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\mi\Projects\Scala\HelloScalaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Lab1" />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="Test1.ClassesTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test1.PatternsTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test1.FunctionsTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test1.HiOrderTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list>
+          <option value="Test1.ClassesTest" />
+          <option value="Test1.HiOrderTest" />
+          <option value="Test1.PatternsTest" />
+          <option value="Test1.FunctionsTest" />
+          <option value="Test1.HiOrderTest" />
+          <option value="Test1.FunctionsTest" />
+          <option value="Test1.PatternsTest" />
+          <option value="Test1.ClassesTest" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="Test1" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\mi\Projects\Scala\HelloScalaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="ScalaTestRunConfiguration" factoryName="ScalaTest" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Lab2" />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="Test2.CompositionTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test2.RecursiveDataTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test2.RecursiveFuncTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list>
+          <option value="Test2.CompositionTest" />
+          <option value="Test2.RecursiveDataTest" />
+          <option value="Test2.RecursiveFuncTest" />
+          <option value="Test2.RecursiveDataTest" />
+          <option value="Test2.CompositionTest" />
+          <option value="Test2.RecursiveFuncTest" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="Test2" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\mi\Projects\Scala\HelloScalaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="ScalaTestRunConfiguration" factoryName="ScalaTest" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Lab3" />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="Test3.AdtsTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test3.MapsTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test3.SequenceTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="Test3.StringsTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list>
+          <option value="Test3.AdtsTest" />
+          <option value="Test3.MapsTest" />
+          <option value="Test3.StringsTest" />
+          <option value="Test3.SequenceTest" />
+          <option value="Test3.SequenceTest" />
+          <option value="Test3.AdtsTest" />
+          <option value="Test3.MapsTest" />
+          <option value="Test3.StringsTest" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="Test3" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\mi\Projects\Scala\HelloScalaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Lab4" />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="Test4.TypeclassesTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list>
+          <option value="Test4.TypeclassesTest" />
+          <option value="Test4.TypeclassesTest" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="Test4" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\mi\Projects\Scala\HelloScalaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="ScalaTest.Test2" />
+      <item itemvalue="ScalaTest.Test3" />
+      <item itemvalue="ScalaTest.Test1" />
+      <item itemvalue="ScalaTest.Test4" />
+      <item itemvalue="ScalaTest.ScalaTests in 'Lab3'" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.Test4" />
+        <item itemvalue="ScalaTest.ScalaTests in 'Lab3'" />
+        <item itemvalue="ScalaTest.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="root" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Lab4 [file:/D:/mi/Projects/Scala/HelloScalaTest/]" />
+                <option name="path" value="$PROJECT_DIR$/Lab4" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Lab3 [file:/D:/mi/Projects/Scala/HelloScalaTest/]" />
+                <option name="path" value="$PROJECT_DIR$/Lab3" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Lab1 [file:/D:/mi/Projects/Scala/HelloScalaTest/]" />
+                <option name="path" value="$PROJECT_DIR$/Lab1" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Lab2 [file:/D:/mi/Projects/Scala/HelloScalaTest/]" />
+                <option name="path" value="$PROJECT_DIR$/Lab2" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/D:/mi/Projects/Scala/HelloScalaTest/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3184667194421" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1127767264" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="887673820" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Desktop/levlab" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c416211-fada-4cba-9025-53bc63b6a5a1" name="Default Changelist" comment="" />
+      <created>1592313565229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592313565229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="145" key="#FunctionsTest" timestamp="1592336192078">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="674" y="145" key="#FunctionsTest/0.0.1920.1050@0.0.1920.1050" timestamp="1592336192078" />
+    <state x="552" y="183" key="#Project_Structure" timestamp="1592313827378">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1592313827378" />
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592314393301">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592314393301" />
+    <state x="465" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592340075557">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="465" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592340075557" />
+    <state x="741" y="302" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1592340045489">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="741" y="302" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592340045489" />
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592340072509">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592340072509" />
+    <state x="886" y="143" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1592331650905">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="886" y="143" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592331650905" />
+    <state x="751" y="365" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592328662563">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="751" y="365" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1592328662563" />
+    <state x="751" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1592328695630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="751" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1592328695630" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1592340683097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592340683097" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1592340683097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592340683097" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1592340683097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592340683097" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1592340683097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592340683097" />
+    <state x="536" y="87" key="SettingsEditor" timestamp="1592331655778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="536" y="87" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592331655778" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592327847656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592327847656" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1592326306775">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1592326306775" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/root$HiOrderTest.ic" NAME="HiOrderTest Coverage Results" MODIFIED="1592337336520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test1.HiOrderTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$ScalaTests_in__Test1_.ic" NAME="ScalaTests in 'Test1' Coverage Results" MODIFIED="1592334544120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/root$CompositionTest.ic" NAME="CompositionTest Coverage Results" MODIFIED="1592338670253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/root$Test1.ic" NAME="Test1 Coverage Results" MODIFIED="1592338811341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test1.ClassesTest</FILTER>
+      <FILTER>Test1.PatternsTest</FILTER>
+      <FILTER>Test1.FunctionsTest</FILTER>
+      <FILTER>Test1.HiOrderTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$Test_1.ic" NAME="Test 1 Coverage Results" MODIFIED="1592335347209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test1.ClassesTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$Test4.ic" NAME="Test4 Coverage Results" MODIFIED="1592340097186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test4.TypeclassesTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$Test3.ic" NAME="Test3 Coverage Results" MODIFIED="1592339811684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test3.AdtsTest</FILTER>
+      <FILTER>Test3.MapsTest</FILTER>
+      <FILTER>Test3.SequenceTest</FILTER>
+      <FILTER>Test3.StringsTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$Test2.ic" NAME="Test2 Coverage Results" MODIFIED="1592338835956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test2.CompositionTest</FILTER>
+      <FILTER>Test2.RecursiveDataTest</FILTER>
+      <FILTER>Test2.RecursiveFuncTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$PatternsTest.ic" NAME="PatternsTest Coverage Results" MODIFIED="1592335253553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test1.PatternsTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$ClassesTest.ic" NAME="ClassesTest Coverage Results" MODIFIED="1592337785864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test1.ClassesTest</FILTER>
+      <FILTER>Test1.PatternsTest</FILTER>
+      <FILTER>Test1.FunctionsTest</FILTER>
+      <FILTER>Test1.HiOrderTest</FILTER>
+      <FILTER>Test1.Animal</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/root$FunctionsTest.ic" NAME="FunctionsTest Coverage Results" MODIFIED="1592337355019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/root$ScalaTests_in__scala_.ic" NAME="ScalaTests in 'scala' Coverage Results" MODIFIED="1592335184803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Test3.StringsTest, org.scalatest.tools.Framework$$anon$1@1250d1cf, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Test3.SequenceTest, org.scalatest.tools.Framework$$anon$1@1250d1cf, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Test3.MapsTest, org.scalatest.tools.Framework$$anon$1@1250d1cf, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Test3.AdtsTest, org.scalatest.tools.Framework$$anon$1@1250d1cf, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 403 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 17[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 17, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test3.StringsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test3.AdtsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test3.MapsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test3.SequenceTest[0m

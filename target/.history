@@ -1,0 +1,27 @@
+compile
+test
+'test-only me.eax.finagle_example.tests.Test4
+'test-only me.eax.finagle_example.tests.Test4'
+test-only me.eax.finagle_example.tests.RestSpec
+test-only me.eax.finagle_example.tests.Test4
+test-only me.eax.finagle_example.tests.Test4;
+test4
+Test4
+Lab4
+coverage
+test coverage
+test
+clean
+test
+clean
+test
+test Test3
+test Lab3
+Lab3
+test
+clean
+test
+Lab4
+project Lab4
+clean
+test

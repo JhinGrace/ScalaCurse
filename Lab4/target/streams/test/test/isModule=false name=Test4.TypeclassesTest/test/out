@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTypeclassesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testReversableString: reverse string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testSmashInt: add numbers to each other[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testSmashDouble: if numbers are double them multiply them[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testSmashString: concatenate two strings[0m[0m

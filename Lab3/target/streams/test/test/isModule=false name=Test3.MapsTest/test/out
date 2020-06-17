@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMapsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testGroupUsers: group by name and get mean of age[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testNumberFrodos: amount of Adams in sequance[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUnderaged: delete anyone under 35 years[0m[0m
